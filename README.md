@@ -2,7 +2,7 @@
 JavaFX application that organizes a list of songs in alphabetical order. 
 
 <p align="center">
-<img src="http://i.imgur.com/jHzWV2q.gifv" />
+<img src="http://i.imgur.com/jHzWV2q.gif" />
 </p>
 
 + Uses the Comparable interface to sort the list in the collection.
